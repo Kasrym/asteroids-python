@@ -18,18 +18,6 @@ In this game you control a spaceship that must avoid and destroy asteroids while
 - **Pygame** 
 - Modular Python files for organization
 
-## 📁 Project Structure
-.
-├── asteroid.py
-├── asteroidfield.py
-├── player.py
-├── shot.py
-├── constants.py
-├── logger.py
-├── main.py
-├── pyproject.toml
-└── README.md
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -53,4 +41,5 @@ python main.py
 	•	Press a key Space to shoot
 	•	Avoid or destroy asteroids to live
 	•	Game ends if your ship collides with an asteroid
+
 
