@@ -1,6 +1,6 @@
 # Asteroids (Python)
 
-A classic **Asteroids‑style arcade game** built in Python — a fun project showcasing game loop logic, object movement, input handling, shooting mechanics, and collision detection. Inspired by traditional arcade gameplay and implemented using Python.  [oai_citation:0‡wiktorgorecki.github.io](https://wiktorgorecki.github.io/projects/asteroids.html?utm_source=chatgpt.com)
+A classic **Asteroids‑style arcade game** built in Python — a fun project showcasing game loop logic, object movement, input handling, shooting mechanics, and collision detection. Inspired by traditional arcade gameplay and implemented using Python.
 
 ## 🎮 Overview
 
@@ -53,3 +53,4 @@ python main.py
 	•	Press a key Space to shoot
 	•	Avoid or destroy asteroids to live
 	•	Game ends if your ship collides with an asteroid
+
